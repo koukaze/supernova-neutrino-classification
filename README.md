@@ -25,7 +25,7 @@ These are exploratory noise scans, with run-dependent training and noise realisa
 
 ## Data
 
-The image data, metadata schema and task setup are supplied by the UCL PHAS0056 Supernova miniproject. The accompanying FAQ is by Cheryl Patrick and Ryan Nichol (December 2020). Obtain the files through the course or its data provider; they are not distributed here.
+The image data, metadata schema and task setup are supplied with the Supernova miniproject in *Practical Machine Learning*. The accompanying FAQ is by Cheryl Patrick and Ryan Nichol (December 2020). Obtain the files through the course or its data provider; they are not distributed here.
 
 | File | Expected contents |
 | --- | --- |
