@@ -1,7 +1,5 @@
 # Supernova neutrino classification
 
-**Peijing Pang · UCL Physics · PHAS0056 Practical Machine Learning coursework (2024)**
-
 A convolutional neural network distinguishes simulated neutrino-event images from background in a liquid-argon time-projection chamber. The analysis compares training with clean and noisy images, scans sensitivity to electronic noise and Gaussian-blob backgrounds, and examines misclassified events using particle metadata.
 
 The complete workflow is in [supernova_classification.ipynb](supernova_classification.ipynb).
